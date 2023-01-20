@@ -1,0 +1,38 @@
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    background-color: hsl(220, 15%, 55%);
+    height: 100vh;
+}
+.attribution{
+    margin-top: 75vh;
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    padding-left: .8rem;
+    padding-right: .8rem;
+    padding-top: .8rem;
+    padding-bottom: 2.5rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    text-align: center;
+
+}
+.card-image{
+    width: 350px;
+    border-radius: 1rem;
+
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    
+}
+h2{
+    font-family: 'Outfit', sans-serif;
+
+}
