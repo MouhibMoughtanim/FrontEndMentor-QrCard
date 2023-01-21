@@ -24,7 +24,7 @@ main{
 
 }
 .card-image{
-    width: 350px;
+    width: 100%;
     border-radius: 1rem;
 
 }
